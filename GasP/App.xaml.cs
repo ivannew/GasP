@@ -11,7 +11,7 @@ namespace GasP
         {
             InitializeComponent();
 
-            MainPage = new Login();
+            MainPage = new Registro();
         }
 
         protected override void OnStart()
